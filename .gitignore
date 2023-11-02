@@ -1,0 +1,4 @@
+bin
+.config
+backend/bin
+backend/.config
