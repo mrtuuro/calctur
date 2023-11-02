@@ -2,3 +2,4 @@ bin
 .config
 backend/bin
 backend/.config
+backend/.env
